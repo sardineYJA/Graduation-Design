@@ -1,0 +1,2 @@
+﻿NER_label.py 对文件夹merge_all文件进行IOB标注，保存到文件夹IOB_label中
+split_NER_data.py将IOB_label文件夹中的文件进行切分，train,test,valid集保存到文件夹split_IOB_label

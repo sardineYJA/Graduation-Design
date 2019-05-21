@@ -1,0 +1,7 @@
+﻿read_all_params.py读取参数总和中所有的csv文件，得到每个品牌的参数，生成absolute_attribute.csv文件。
+将absolute_attribute.csv内缺少的参数补充完整，得到absolute_attribute_complete.csv文件。
+将一些范围值取平均值
+attribute_check.py检测absolute_attribute_complete.csv的数据分布情况
+attribute_trans.py将absolute_attribute_complete.csv中的数据离散化（等频，等宽）
+得到absolute_attribute_trans_cut.csv(等宽离散标签化)
+得到absolute_attribute_trans_qcut.csv(等频离散标签化)

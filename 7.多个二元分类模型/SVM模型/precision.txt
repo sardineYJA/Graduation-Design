@@ -1,0 +1,305 @@
+﻿
+===================== 等宽离散
+
+短句： CPU TF-IDF
+precision:0.198
+recall:0.333
+
+短句： Price TF-IDF
+precision:0.316
+recall:0.333
+
+短句： RAM TF-IDF
+precision:0.244
+recall:0.333
+
+短句： ROM TF-IDF
+precision:0.291
+recall:0.333
+
+短句： Screen TF-IDF
+precision:0.088
+recall:0.333
+
+短句： Solid TF-IDF
+precision:0.203
+recall:0.252
+
+短句： System TF-IDF
+precision:1.000
+recall:1.000
+
+短句： Time TF-IDF
+precision:0.079
+recall:0.333
+
+短句： Weight TF-IDF
+precision:0.157
+recall:0.333
+
+===================
+
+短句： CPU Count
+precision:0.198
+recall:0.333
+
+短句： Price Count
+precision:0.316
+recall:0.333
+
+短句： RAM Count
+precision:0.244
+recall:0.333
+
+短句： ROM Count
+precision:0.291
+recall:0.333
+
+短句： Screen Count
+precision:0.365
+recall:0.343
+
+短句： Solid Count
+precision:0.214
+recall:0.272
+
+短句： System Count
+precision:1.000
+recall:1.000
+
+短句： Time Count
+precision:0.173
+recall:0.339
+
+短句： Weight Count
+precision:0.157
+recall:0.333
+
+===================
+
+长句： CPU TF-IDF
+precision:0.201
+recall:0.333
+
+长句： Price TF-IDF
+precision:0.318
+recall:0.333
+
+长句： RAM TF-IDF
+precision:0.259
+recall:0.333
+
+长句： ROM TF-IDF
+precision:0.305
+recall:0.333
+
+长句： Screen TF-IDF
+precision:0.102
+recall:0.333
+
+长句： Solid TF-IDF
+precision:0.084
+recall:0.250
+
+长句： System TF-IDF
+precision:1.000
+recall:1.000
+
+长句： Time TF-IDF
+precision:0.065
+recall:0.333
+
+长句： Weight TF-IDF
+precision:0.162
+recall:0.333
+
+===================
+
+长句： CPU Count
+precision:0.201
+recall:0.333
+
+长句： Price Count
+precision:0.318
+recall:0.333
+
+长句： RAM Count
+precision:0.259
+recall:0.333
+
+长句： ROM Count
+precision:0.305
+recall:0.333
+
+长句： Screen Count
+precision:0.444
+recall:0.337
+
+长句： Solid Count
+precision:0.219
+recall:0.271
+
+长句： System Count
+precision:1.000
+recall:1.000
+
+长句： Time Count
+precision:0.165
+recall:0.334
+
+长句： Weight Count
+precision:0.162
+recall:0.333
+
+
+===================== 等频离散
+
+短句： CPU TF-IDF
+precision:0.416
+recall:0.333
+
+短句： Price TF-IDF
+precision:0.353
+recall:0.335
+
+短句： RAM TF-IDF
+precision:0.244
+recall:0.333
+
+短句： ROM TF-IDF
+precision:0.291
+recall:0.333
+
+短句： Screen TF-IDF
+precision:0.627
+recall:0.519
+
+短句： Solid TF-IDF
+precision:0.203
+recall:0.252
+
+短句： System TF-IDF
+precision:1.000
+recall:1.000
+
+短句： Time TF-IDF
+precision:0.522
+recall:0.509
+
+短句： Weight TF-IDF
+precision:0.045
+recall:0.333
+
+===================
+
+短句： CPU Count
+precision:0.258
+recall:0.332
+
+短句： Price Count
+precision:0.357
+recall:0.349
+
+短句： RAM Count
+precision:0.244
+recall:0.333
+
+短句： ROM Count
+precision:0.291
+recall:0.333
+
+短句： Screen Count
+precision:0.607
+recall:0.530
+
+短句： Solid Count
+precision:0.214
+recall:0.272
+
+短句： System Count
+precision:1.000
+recall:1.000
+
+短句： Time Count
+precision:0.526
+recall:0.528
+
+短句： Weight Count
+precision:0.045
+recall:0.333
+
+===================
+
+长句： CPU TF-IDF
+precision:0.079
+recall:0.333
+
+长句： Price TF-IDF
+precision:0.138
+recall:0.333
+
+长句： RAM TF-IDF
+precision:0.259
+recall:0.333
+
+长句： ROM TF-IDF
+precision:0.305
+recall:0.333
+
+长句： Screen TF-IDF
+precision:0.347
+recall:0.500
+
+长句： Solid TF-IDF
+precision:0.084
+recall:0.250
+
+长句： System TF-IDF
+precision:1.000
+recall:1.000
+
+长句： Time TF-IDF
+precision:0.403
+recall:0.500
+
+长句： Weight TF-IDF
+precision:0.055
+recall:0.333
+
+===================
+
+长句： CPU Count
+precision:0.238
+recall:0.329
+
+长句： Price Count
+precision:0.314
+recall:0.306
+
+长句： RAM Count
+precision:0.259
+recall:0.333
+
+长句： ROM Count
+precision:0.305
+recall:0.333
+
+长句： Screen Count
+precision:0.615
+recall:0.533
+
+长句： Solid Count
+precision:0.219
+recall:0.271
+
+长句： System Count
+precision:1.000
+recall:1.000
+
+长句： Time Count
+precision:0.540
+recall:0.548
+
+长句： Weight Count
+precision:0.351
+recall:0.337

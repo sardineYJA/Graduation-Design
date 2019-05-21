@@ -1,0 +1,1 @@
+﻿get_related.py提取每个评论文件的相关评论到related_csv文件夹中（即提取标签为1的评论）

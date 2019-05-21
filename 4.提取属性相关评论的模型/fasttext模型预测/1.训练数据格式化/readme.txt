@@ -1,0 +1,1 @@
+﻿format_data.py将文件夹中new_nocut_train.csv和new_cut_train.csv分别格式化，并切割7：3的训练集和测试集

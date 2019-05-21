@@ -1,0 +1,1 @@
+﻿svm_predict.py对文件夹评论总和的所有评论进行预测，结果保存到deploy_csv文件夹中

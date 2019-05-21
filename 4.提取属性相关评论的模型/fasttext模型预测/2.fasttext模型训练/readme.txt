@@ -1,0 +1,3 @@
+﻿fasttext_classification.py训练模型
+
+test_f1_score.py是对test_f1_score文件夹中的csv进行预测，并且与人工标注进行对比，统计p,r,f1

@@ -1,0 +1,4 @@
+﻿集成推荐系统，选择fasttext模型，短评论，等宽离散化
+model-cut保存9个属性模型
+absolute_attribute_trans_cut.csv为绝对属性离散化表
+其中因fasttext库在Windows和Linux环境下是不同函数，不同使用方法，分两个版本

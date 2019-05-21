@@ -1,0 +1,1 @@
+﻿解析预测文件000_deploy.txt，将所有品牌分离到deploy_all_csv文件夹中，temp临时存储txt文件

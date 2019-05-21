@@ -1,0 +1,1 @@
+﻿sk_svm.py进行训练模型，训练数据在merge_all文件夹，model文件夹保存模型
